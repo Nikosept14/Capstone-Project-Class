@@ -15,7 +15,7 @@ This project implements a **Control and Monitoring System for Battery Management
 - MPPT (Maximum Power Point Tracking)
 - BMS 3S (Battery Management System)
 - Li-Ion 18650 Batteries
-- ESP32 Devkit V1
+- ESP32 DevkitC V4
 - INA219 (current & voltage sensor)
 - 12V Relay Module
 - 12V LED Lamp
@@ -44,12 +44,20 @@ This project implements a **Control and Monitoring System for Battery Management
 - Device control via **Home Assistant dashboard**
 - Improved energy efficiency with monitoring & automatic cut-off features
 
-## 👥 Development Team
+## 👥 Development Team & Contributions
 Group 3 - Electrical Engineering Project, ITS 2024
-- Niko Septian Kresno Nugroho
-- Muhammad Ikhsan
-- Ahmad Jabar Ilmi
-- Isnuansa Maharani Puteri
+
+- **Niko Septian Kresno Nugroho**  
+  Responsible for **designing and developing the prototype system**, including mechanical and electronic aspects.  
+
+- **Muhammad Ikhsan**  
+  Contributed to **proposal writing** and assisted in **system design**.  
+
+- **Ahmad Jabar Ilmi**  
+  Focused on **defining specifications** and leading the **implementation & testing** phase.  
+
+- **Isnuansa Maharani Puteri**  
+  Assisted in **proposal preparation** and carried out **system testing**.  
 
 ## 📖 License
 This project was developed for **academic and research purposes** as part of the Electrical Engineering Project at Institut Teknologi Sepuluh Nopember (ITS), 2024.
